@@ -23,6 +23,6 @@ Then look for the file :
 
 
 
-testing build triggers
+testing
 
 
